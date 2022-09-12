@@ -1,0 +1,6 @@
+sklearn
+matplotlib
+seaborn
+pandas
+numpy
+matplotlib==3.5.2
