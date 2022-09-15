@@ -3,7 +3,8 @@
 ## <p align="center"> Análise do Desempenho no Enade dos Concluintes de Computação usando Técnica de Agrupamento 
 
 ## Sobre
-Este repositório tem como objetivo disponibilizar o conjunto gerado através da pesquisa, junto com as análises realizadas.
+Este repositório tem como objetivo disponibilizar o conjunto gerado através da pesquisa, junto com as análises realizadas. <br>
+Importante ressaltar que haverá uma variação mínima entre os resultados gerados quando comparado ao da pesquisa, visto que a cada execução do K-means os grupos são gerados de forma aleatória, e por consequente algumas instâncias irão variar de agrupamento.
 
 ### Tecnologias usadas
 
