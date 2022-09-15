@@ -1,4 +1,6 @@
-<img src="img/logo.png" style="width: 15%; display: block; margin-left: auto;">
+<p align="right">
+<img src="img/logo.png" style="width: 15%;">
+</p>
 
 ## <p align="center"> Análise do Desempenho no Enade dos Concluintes de Computação usando Técnica de Agrupamento 
 
